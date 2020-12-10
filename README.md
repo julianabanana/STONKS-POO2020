@@ -22,3 +22,5 @@ Ya podrá abrir el archivo portable STONKS.jar
 **Recomendación:**  
 En caso de error, pruebe con desinstalar Java 8  
 Verifique desde http://localhost/phpmyadmin/ en la base de datos "mysql" en la tabla "user" que el usuario root en localhost no tenga contraseña
+
+Hola esto es el cambio
